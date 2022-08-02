@@ -33,7 +33,7 @@ read -p "Would you like to sing a song?(y or n)" song
 if [ $song = y ]
    then 
 	echo "cool, Lets collaborate on starmaker"
-	echo "connect with this link https//testcom/"
+	echo "connect with this link https//test.com/"
    else
 	echo "Goodbye! then"
 fi
